@@ -25,12 +25,11 @@
 
 ## 🌟 About Me  
 🔭 **Goal:** Get into MIT and become a space systems engineer.  
-
 📖 **Interests:** Science, space, engineering, and programming.  
-
 ✍️ **Other Skills:** 
-✅ Developing strong problem-solving and critical thinking skills through STEM, philosophy, and psychology.
-✅ Improving technical writing by documenting projects and summarizing courses.
+✅Developing strong problem-solving and critical thinking skills through STEM, philosophy, and psychology.
+✅Improving technical writing by documenting projects and summarizing courses.
+
 ---
 
 ## 📫 Connect with Me  
