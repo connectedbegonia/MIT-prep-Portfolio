@@ -2,7 +2,7 @@
 
 # 🚀 My Portfolio  
 
-👋 **Welcome!** I'm [Emanuela], an aspiring **Aerospace Engineer** with a passion for **STEM, space systems, coding and sciences in general**. I'm currently studying **MIT OpenCourseWare (MIT OCW)** and **CS50x**, building my skills in **math, physics, and programming**.  
+👋 **Welcome!** I'm Emanuela, an aspiring **Aerospace Engineer** with a passion for **STEM, space systems, coding and sciences in general**. I'm currently studying **MIT OpenCourseWare (MIT OCW)** and **CS50x**, building my skills in **math, physics, and programming**.  
 
 ---
 
